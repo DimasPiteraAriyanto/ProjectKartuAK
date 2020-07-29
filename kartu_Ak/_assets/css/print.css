@@ -1,0 +1,10 @@
+html{
+    width: 8in;
+    height: 13in;
+}
+body{ 
+    width: 6.5in;
+    padding: 0;
+    margin: 1in 1in 1in 1in; 
+    page-break-inside: avoid;
+}
